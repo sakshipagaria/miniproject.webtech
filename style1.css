@@ -14,12 +14,12 @@ body {
  #showcase {
      margin:0;
      padding:0;
-     background-image: url("https://i.pinimg.com/originals/ef/6d/de/ef6ddef5a8ad454c11631d8e3a0e9655.jpg") ;
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1elNWalLZFupcMQ63TABe6pyp7IdTiKfhy0EAJsxNiFlD_fuYpE_PAsvornGZk7aFQs&usqp=CAU") ;
      background-repeat:no-repeat;
      background-position: center;
     background-size:cover ;
      width:100%;
-     height:900px;  /*viewport-height*/
+     height:900px;  
      position: relative;
      overflow:hidden;
  }
@@ -166,7 +166,7 @@ select:focus{
     
 }
 .page-btn span:hover{
-    backgroung:#ff523b;
+    background:#ff523b;
     color:#ffffff;
 }
 .h4{
